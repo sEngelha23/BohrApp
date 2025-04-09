@@ -1,0 +1,13 @@
+name: mldog_challenge
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - scikit-learn=1.5.2
+  - tsfresh=0.20.3
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - jupyterlab

@@ -1,0 +1,17 @@
+name: drill
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - plotly_express
+  - scikit-learn
+  - tsfresh
